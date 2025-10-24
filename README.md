@@ -60,7 +60,9 @@ This project combines:
 - Mobile app interface for on-the-go inventory management  
 
 ---
-
+## 📂 Documentation
+- [Airtable Setup & Screenshots](docs/airtable/README.md)
+- [n8n Workflow Setup](docs/n8n/README.md)
 
 ---
 
