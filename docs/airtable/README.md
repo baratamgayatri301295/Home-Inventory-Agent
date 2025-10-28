@@ -12,7 +12,7 @@ It integrates seamlessly with **n8n** automation flows to read, update, and mana
 This is the main Airtable base where all inventory data is stored.
 
 ### 🔹 Airtable Base Structure
-![Airtable Base](AirtableBase.png)
+![Airtable Base](databeforeupdation.png)
 
 ### 🔹 API Token Generation
 To connect Airtable to n8n, you need an API token.
@@ -34,7 +34,7 @@ The Airtable base tracks stock quantities and triggers alerts if thresholds are 
 ### 📸 Before Update
 This screenshot shows your data **before** an item update.
 
-![Before Update](Databeforeupdation.png)
+![Before Update](databeforeupdation.png)
 
 ### 📸 After Update
 This screenshot shows the updated data **after automation** via n8n.
