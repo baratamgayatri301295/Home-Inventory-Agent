@@ -17,7 +17,9 @@ This is the main Airtable base where all inventory data is stored.
 ### 🔹 API Token Generation
 To connect Airtable to n8n, you need an API token.
 
-![Airtable Token](AirtableToken.png)
+![Airtable Token](Airtabletoken.png)
+
+![Token Scope](ScopesofToken.png)
 
 Steps:
 1. Go to [https://airtable.com/create/tokens](https://airtable.com/create/tokens)
