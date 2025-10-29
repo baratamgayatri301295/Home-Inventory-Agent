@@ -58,15 +58,19 @@ After processing, the response (e.g., “3 rice packets added to inventory ✅�
 ### 🔄 Step 3: End-to-End Workflow Example  
 Below is the complete n8n workflow showing all nodes — from WhatsApp input → AI interpretation → Airtable update → WhatsApp reply.
 
-![Full Workflow Canvas Screenshot](FullWorkflowCanvas.png)
+![Full Workflow Canvas Screenshot](FullWorkflow.png)
+
+![Testing Screenshot 1](TestingCanvas.png)
+
+![Testing Screenshot 2](TestingCanvas2.png)
 
 ---
 
 ## ✅ Notes
 
-- n8n can run **locally**, on **n8n.cloud**, or **self-hosted** using Docker.
+- n8n can run **locally**, on **n8n.cloud**.
 - You can export and share workflows as `.json` files.
-- Integrate with **OpenAI**, **LangChain**, or **Twilio WhatsApp API** for advanced automation.
+- Integrate with **OpenAI**, **LangChain**, or **WhatsApp API** for advanced automation.
 - Ensure all API credentials (Airtable, OpenAI, WhatsApp) are stored securely using n8n **credentials manager**.
 
 ---
