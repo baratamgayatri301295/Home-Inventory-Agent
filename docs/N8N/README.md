@@ -34,6 +34,8 @@ It updates the “Inventory” table automatically based on AI node output.
 
 ![Airtable Integration Screenshot](AirtableIntegration.png)
 
+![Airtable Integration Screenshot2](AirtableIntegration2.png)
+
 ---
 
 ## 💬 4. WhatsApp Automation Integration
@@ -59,6 +61,8 @@ After processing, the response (e.g., “3 rice packets added to inventory ✅�
 Below is the complete n8n workflow showing all nodes — from WhatsApp input → AI interpretation → Airtable update → WhatsApp reply.
 
 ![Full Workflow Canvas Screenshot](FullWorkflow.png)
+
+Testing for Home Inventory
 
 ![Testing Screenshot 1](TestingCanvas.png)
 

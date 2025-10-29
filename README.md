@@ -1,6 +1,6 @@
 # 🏠 AI-Powered Home Inventory Assistant
 
-A smart **AI-powered inventory assistant** that helps you track household items, manage stock levels, and get alerts when items are running low. Built using **Airtable** as the backend database and **NA10NA10** as the automation platform, this system allows you to update your inventory simply by sending messages—no manual tracking required.
+A smart **AI-powered inventory assistant** that helps you track household items, manage stock levels, and get alerts when items are running low. Built using **Airtable** as the backend database and **N8N** as the automation platform, this system allows you to update your inventory simply by sending messages—no manual tracking required.
 
 ---
 
@@ -14,7 +14,7 @@ You can send a simple message like:
 
 This project combines:  
 - **Airtable** → for storing structured data like item names, quantities, and thresholds.  
-- **NA10NA10** → a no-code automation platform to build AI-powered workflows.  
+- **N8N** → a no-code automation platform to build AI-powered workflows.  
 - **AI Agent** → interprets natural language messages and updates inventory dynamically.  
 
 ---
@@ -24,7 +24,7 @@ This project combines:
 | Component       | Description |
 |-----------------|-------------|
 | **Airtable**    | Stores inventory items, quantities, and thresholds. Provides API access for automation. |
-| **NA10NA10**    | No-code automation platform for building workflows and connecting tools like WhatsApp, Google Sheets, OpenAI, and Airtable. |
+| **N8N**    | No-code automation platform for building workflows and connecting tools like WhatsApp, Google Sheets, OpenAI, and Airtable. |
 | **AI Agent**    | Processes natural language messages and updates inventory dynamically. |
 
 ---
@@ -53,7 +53,7 @@ This project combines:
 
 ## 🔮 Future Enhancements
 
-- Multi-channel notifications: WhatsApp, Telegram, Slack  
+- Multi-channel notifications:  Telegram, Slack  
 - Automatic reordering via e-commerce APIs  
 - Barcode scanning for faster item updates  
 - AI analytics to predict consumption trends  
